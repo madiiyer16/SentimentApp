@@ -6,9 +6,11 @@ A full-stack machine learning web app that predicts the sentiment of any text as
 
 ---
 
-## Screenshot
+## Screenshots
 
 <img width="560" height="603" alt="image" src="https://github.com/user-attachments/assets/4aa7a74d-917c-4f73-abc0-8eaeb00786c3" />
+<img width="533" height="608" alt="image" src="https://github.com/user-attachments/assets/bca2e210-9f38-480a-90bd-ee503c40cc5c" />
+
 
 
 ---
