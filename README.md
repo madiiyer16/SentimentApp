@@ -8,7 +8,8 @@ A full-stack machine learning web app that predicts the sentiment of any text as
 
 ## Screenshot
 
-> _Add a screenshot or GIF of the UI here_
+<img width="560" height="603" alt="image" src="https://github.com/user-attachments/assets/4aa7a74d-917c-4f73-abc0-8eaeb00786c3" />
+
 
 ---
 
@@ -137,4 +138,4 @@ Frontend runs at `http://localhost:3000`
 
 ## Author
 
-Madi Iyer — [GitHub](https://github.com/madiiyer16)
+Madhavan Iyer — [GitHub](https://github.com/madiiyer16)
